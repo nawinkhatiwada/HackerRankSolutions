@@ -14,9 +14,7 @@ public class AVeryBigSum {
 
     Output Format
     Print a single value equal to the sum of the elements in the array.
-     */
-
-    /**
+    --------------------------------------------------------------------------------
      * Sample Input:
      * N = 5
      *ArrayOfElement: 1000000001 1000000002 1000000003 1000000004 1000000005
