@@ -13,7 +13,7 @@ public class PlusMinus {
      * The first line contains an integer,N, denoting the size of the array.
      * The second line contains N space-separated integers describing an array of numbers(a0,a1,a2...a_n-1) .
      * <p>
-     *
+     * <p>
      * Output Format:
      * You must print the following  lines:
      * <p>
@@ -56,9 +56,8 @@ public class PlusMinus {
             }
 
         }
-        DecimalFormat df = new DecimalFormat("#.#####");
-        System.out.println(df.format(positiveCount / n));
-        System.out.println(df.format(negativeCount / n));
-        System.out.println(df.format(equalsCount / n));
+        System.out.println(positiveCount / n);
+        System.out.println(negativeCount / n);
+        System.out.println(equalsCount / n);
     }
 }
