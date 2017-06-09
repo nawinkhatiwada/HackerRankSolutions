@@ -6,6 +6,7 @@ import java.util.Scanner;
  * Created by brainovation on 6/2/17.
  */
 public class MiniMaxSum {
+
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         long max, min, sum;
