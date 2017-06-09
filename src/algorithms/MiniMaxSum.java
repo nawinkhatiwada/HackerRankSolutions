@@ -11,7 +11,6 @@ public class MiniMaxSum {
         Scanner in = new Scanner(System.in);
         long max, min, sum;
         sum = max = min = in.nextLong();
-
         for (int i = 1; i < 5; i++) {
             long temp = in.nextLong();
             sum += temp;
@@ -23,7 +22,6 @@ public class MiniMaxSum {
                 max = temp;
             }
         }
-
         System.out.print((sum - max) + " " + (sum - min));
     }
 }
