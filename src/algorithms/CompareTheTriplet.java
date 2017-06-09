@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Created by brainovation on 5/26/17.
  */
 public class CompareTheTriplet {
-    /*
+    /**
         sample input :
         {a0,a1,a2} = 5 6 7
         {b0,b1,b2} = 3 6 10
