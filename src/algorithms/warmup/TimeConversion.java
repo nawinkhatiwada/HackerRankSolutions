@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.warmup;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
