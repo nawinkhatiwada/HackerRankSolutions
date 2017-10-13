@@ -1,4 +1,4 @@
-package ThirtyDaysOfCodeChallenge;
+package thirtydaysofcodechallenge;
 
 import java.util.Scanner;
 
